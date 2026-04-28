@@ -2,7 +2,7 @@
 
 [![NPM Version](https://img.shields.io/npm/v/banana-code-gemini-oauth?color=yellow&style=flat-square)](https://www.npmjs.com/package/banana-code-gemini-oauth)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Banana Code](https://img.shields.io/badge/Powered%20By-Banana%20Code-brightgreen?style=flat-square)](https://github.com/banaxi/banana-code)
+[![Banana Code](https://img.shields.io/badge/Powered%20By-Banana%20Code-brightgreen?style=flat-square)](https://github.com/Banaxi-Tech/Banana-Code)
 
 > [!CAUTION]
 > **Use at your own risk.** Google’s policies indicate that utilizing Gemini CLI OAuth credentials within third-party tools (like this plugin) may be classified as a policy violation. This could potentially lead to account flags, abuse detection, or temporary restrictions. While enforcement varies, you should be aware of the inherent risks. If you prefer an officially supported and zero-risk method, we strongly recommend using Banana Code with a standard Google Cloud API Key instead.
