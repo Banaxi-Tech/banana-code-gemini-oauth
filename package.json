@@ -1,0 +1,17 @@
+{
+  "name": "banana-code-gemini-oauth",
+  "version": "1.0.0",
+  "description": "Gemini OAuth provider plugin for Banana Code",
+  "license": "MIT",
+  "type": "module",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^7.2.3",
+    "@openauthjs/openauth": "^0.4.3",
+    "chalk": "^5.4.1",
+    "ora": "^8.1.1"
+  }
+}
