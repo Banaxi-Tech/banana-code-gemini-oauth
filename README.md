@@ -103,7 +103,7 @@ This project is licensed under the **MIT License**.
 
 Parts of the core logic and API integration patterns were adapted from the [opencode-gemini-auth](https://www.npmjs.com/package/opencode-gemini-auth) project by **Jens**. We are grateful for their work in the open-source community.
 
-See the [LICENSE](file:///home/banaxi/Desktop/Github_real/banana-code-gemini-auth/LICENSE) file for the full license text and copyright notices.
+See the [LICENSE](LICENSE) file for the full license text and copyright notices.
 
 ---
 
